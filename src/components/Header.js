@@ -11,6 +11,7 @@ import {
   useMediaQuery,
   Tab,
   Tooltip,
+  Button,
 } from "@material-ui/core";
 import { Menu as MenuIcon, Brightness4, Brightness7 } from "@material-ui/icons";
 
@@ -116,6 +117,18 @@ const Header = (props) => {
     </Tooltip>
   );
 
+  const applyButton = (
+    <Button
+      variant="outlined"
+      style={{ color: 'white', borderColor: 'white', marginLeft: 10 }}
+      href="https://docs.google.com/forms/d/e/1FAIpQLSc7eBsUyAfIraBn7_u2vCAp5SFw5ZQPs3mLUtqtUwdXOzs5qw/viewform?usp=dialog"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Apply Here
+    </Button>
+  );
+
   return (
     <div className={classes.root}>
       <AppBar position="static">
@@ -148,6 +161,7 @@ const Header = (props) => {
                   onClose={() => setAnchorEl(null)}
                 >
                   {menuItems}
+                  <MenuItem onClick={() => window.open('https://docs.google.com/forms/d/e/1FAIpQLSc7eBsUyAfIraBn7_u2vCAp5SFw5ZQPs3mLUtqtUwdXOzs5qw/viewform?usp=dialog', '_blank')}>Apply Here</MenuItem>
                   {setDarkMode(false)}
                 </Menu>
               </div>
@@ -156,6 +170,7 @@ const Header = (props) => {
             <>
               <img src={logo} width="auto" height="100" alt="MUBC Logo" />
               {tabs}
+              {applyButton}
               {darkLightModeButton}
             </>
           )}
