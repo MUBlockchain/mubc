@@ -39,6 +39,3 @@ To deploy to GitHub Pages run
 ```bash
 npm run deploy
 ```
-
-After deployment make sure to go to settings then under pages set the custom domain to mubc.io.
-Then add, commit, and push your changes to this repository. 
