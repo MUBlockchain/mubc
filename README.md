@@ -1,6 +1,6 @@
 # Miami University Blockchain Club Website
 
-Live at [mubc.io](https://mubc.io/)
+Live at [https://mublockchain.github.io/mubc/](https://mublockchain.github.io/mubc/)
 
 Built with React, React-Scroll, and Material-UI. Deployed using GitHub Pages.
 
