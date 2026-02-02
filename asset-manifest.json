@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956ed690.chunk.css",
+    "main.js": "/static/js/main.8cf69114.chunk.js",
+    "main.js.map": "/static/js/main.8cf69114.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec787b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec787b5f.js.map",
+    "static/css/2.7d1cbf37.chunk.css": "/static/css/2.7d1cbf37.chunk.css",
+    "static/js/2.8cc3cd2d.chunk.js": "/static/js/2.8cc3cd2d.chunk.js",
+    "static/js/2.8cc3cd2d.chunk.js.map": "/static/js/2.8cc3cd2d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7d1cbf37.chunk.css.map": "/static/css/2.7d1cbf37.chunk.css.map",
+    "static/css/main.956ed690.chunk.css.map": "/static/css/main.956ed690.chunk.css.map",
+    "static/js/2.8cc3cd2d.chunk.js.LICENSE.txt": "/static/js/2.8cc3cd2d.chunk.js.LICENSE.txt",
+    "static/media/BEN_logo.d135c43e.png": "/static/media/BEN_logo.d135c43e.png",
+    "static/media/EY_logo.570845ef.png": "/static/media/EY_logo.570845ef.png",
+    "static/media/FSB_logo.4715e0a1.png": "/static/media/FSB_logo.4715e0a1.png",
+    "static/media/GBBC_logo.02f1bef5.png": "/static/media/GBBC_logo.02f1bef5.png",
+    "static/media/SamYehHeadshot.70bf1587.jpg": "/static/media/SamYehHeadshot.70bf1587.jpg",
+    "static/media/coding.05b5bac5.jpg": "/static/media/coding.05b5bac5.jpg",
+    "static/media/group.40777ef2.jpg": "/static/media/group.40777ef2.jpg",
+    "static/media/ianCoates.715f0d78.JPG": "/static/media/ianCoates.715f0d78.JPG",
+    "static/media/jacobKendall.3d2cbe1f.jpeg": "/static/media/jacobKendall.3d2cbe1f.jpeg",
+    "static/media/japveerSingh.96ac5268.jpg": "/static/media/japveerSingh.96ac5268.jpg",
+    "static/media/logo.5b18a1e0.jpg": "/static/media/logo.5b18a1e0.jpg",
+    "static/media/mohsinChheena.ec13cc03.JPG": "/static/media/mohsinChheena.ec13cc03.JPG",
+    "static/media/presentation.db1b3c78.jpg": "/static/media/presentation.db1b3c78.jpg",
+    "static/media/tShirt1.8765ac1c.jpg": "/static/media/tShirt1.8765ac1c.jpg",
+    "static/media/tShirt2.1e772462.jpg": "/static/media/tShirt2.1e772462.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec787b5f.js",
+    "static/css/2.7d1cbf37.chunk.css",
+    "static/js/2.8cc3cd2d.chunk.js",
+    "static/css/main.956ed690.chunk.css",
+    "static/js/main.8cf69114.chunk.js"
+  ]
+}
